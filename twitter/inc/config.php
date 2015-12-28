@@ -19,7 +19,7 @@ Login credentials
 */
 
 define('LOGIN_USER','shashank');
-define('LOGIN_PASSWORD','have_fun123');
+define('LOGIN_PASSWORD','password');
 
 /*
 Cron job access key - set to something random (no spaces)
